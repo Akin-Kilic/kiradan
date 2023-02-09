@@ -1,0 +1,65 @@
+.recent .text {
+    padding: 30px;
+}
+
+.recent .category span {
+    padding: 4px 15px;
+    border-radius: 2px;
+    font-weight: 600;
+    font-size: 13px;
+    display: inline-block;
+}
+
+.recent .category i {
+    font-size: 20px;
+    color: #bec7d8;
+}
+
+.recent p {
+    color: #72809d;
+}
+
+.recent .button {
+    border-top: 1px solid #e4e8f3;
+    padding: 10px 30px;
+}
+
+#filtre {
+    width: 25%;
+    margin-left: 50px;
+    margin-top: 25px;
+}
+
+.form {
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+#arkaplan {
+    background-color: bisque;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    border: solid 1px bisque;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.dropdown-menu-end {
+    padding: 8px;
+    display: flex;
+    width: 100%;
+    height: 200px;
+    overflow: scroll;
+}
+
+.formdrop {
+    display: flex;
+    width: 100%;
+}
+
+.filtrebuton {
+    display: flex;
+    width: 100%;
+    margin-bottom: 100px;
+}
